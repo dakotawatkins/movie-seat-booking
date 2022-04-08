@@ -1,0 +1,20 @@
+{
+  "name": "movie-seat-booking",
+  "version": "1.0.0",
+  "description": "Display movie choices and seats in a theater to select from in order to purchase tickets",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakotawatkins/movie-seat-booking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakotawatkins/movie-seat-booking/issues"
+  },
+  "homepage": "https://github.com/dakotawatkins/movie-seat-booking#readme"
+}
